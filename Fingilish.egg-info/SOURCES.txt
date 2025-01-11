@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+Fingilish/__init__.py
+Fingilish.egg-info/PKG-INFO
+Fingilish.egg-info/SOURCES.txt
+Fingilish.egg-info/dependency_links.txt
+Fingilish.egg-info/top_level.txt
